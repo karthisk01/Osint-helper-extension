@@ -1,3 +1,4 @@
+<img width="1348" height="671" alt="image" src="https://github.com/user-attachments/assets/0142d234-a98d-4f35-b485-eca892270c4d" />
 🕵️ OSINT Helper – Chrome Extension
 
 OSINT Helper is a lightweight Chrome extension designed for passive OSINT (Open-Source Intelligence) reconnaissance.
