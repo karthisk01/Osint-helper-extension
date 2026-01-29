@@ -1,4 +1,4 @@
-<img width="269" height="401" alt="image" src="https://github.com/user-attachments/assets/b25a33ab-664f-4c53-b226-76b59bff3ff0" />
+<img width="263" height="395" alt="image" src="https://github.com/user-attachments/assets/f8a3755b-b774-4c41-9fa8-2b26cdef5add" />
 
 🕵️ OSINT Helper – Chrome Extension
 
@@ -29,18 +29,18 @@ All results open in a new tab using well-known OSINT services.
 
 🧩 Google Dorks Included
 
-The extension supports multiple predefined Google dorks, including:
+⤷ The extension supports multiple predefined Google dorks, including:
 
-site:domain
+⤷ site:domain
 
-Login pages discovery
+⤷ Login pages discovery
 
-Open directories (index of)
+⤷ Open directories (index of)
 
-PDF and document files
+⤷ PDF and document files
 
-Admin panels
+⤷ Admin panels
 
-Configuration & backup file exposure
+⤷ Configuration & backup file exposure
 
 This helps automate common reconnaissance tasks without manual searching.
