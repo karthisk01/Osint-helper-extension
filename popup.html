@@ -1,0 +1,31 @@
+ <!DOCTYPE html>
+<html>
+<head>
+  <title>OSINT Helper</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+
+  <h2>OSINT Helper</h2>
+  <p id="domain">Loading...</p>
+
+  <button id="whois">WHOIS Lookup</button>
+  <button id="dns">DNS Lookup</button>
+  <button id="reverseip">Reverse IP</button>
+  <button id="shodan">Shodan</button>
+  <button id="virustotal">VirusTotal</button>
+
+  <select id="dorkSelect">
+    <option value="">Google Dorks</option>
+    <option value="site">Site Search</option>
+    <option value="login">Login Pages</option>
+    <option value="index">Index Of</option>
+    <option value="pdf">PDF Files</option>
+    <option value="admin">Admin Panels</option>
+  </select>
+
+  <button id="runDork">Run Dork</button>
+
+  <script src="popup.js"></script>
+</body>
+</html>
