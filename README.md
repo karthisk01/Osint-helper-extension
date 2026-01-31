@@ -1,3 +1,10 @@
+🕵️ OSINT Helper – Chrome Extension
+
+OSINT Helper is a lightweight Chrome extension designed for passive OSINT (Open-Source Intelligence) reconnaissance.
+It helps cybersecurity professionals, SOC analysts, and students quickly collect domain intelligence using trusted public OSINT platforms all with one click.
+
+The extension focuses on speed, simplicity, and ethical reconnaissance, making everyday security research faster and more efficient.
+
 <img width="263" height="395" alt="image" src="https://github.com/user-attachments/assets/f8a3755b-b774-4c41-9fa8-2b26cdef5add" />
 
 🕵️ OSINT Helper – Chrome Extension
