@@ -8,8 +8,6 @@ It helps cybersecurity professionals, SOC analysts, and students quickly collect
 
 The extension focuses on speed, simplicity, and ethical reconnaissance, making everyday security research faster and more efficient.
 
-<img width="263" height="498" alt="image" src="https://github.com/user-attachments/assets/ad04f1b3-763f-47b7-bf90-b333985088fe" />
-
 <img width="1336" height="671" alt="image" src="https://github.com/user-attachments/assets/7e935bee-6eea-4c43-b251-a8a6efba305a" />
 
 
@@ -32,8 +30,6 @@ OSINT Helper provides one-click access to the following OSINT tools for the curr
 All results open in a new tab using well-known OSINT services.
 
 <h1>🧩 Google Dorks Included </h1>
-
-<img width="263" height="498" alt="image" src="https://github.com/user-attachments/assets/4a733e83-7c5e-4de0-a45a-53f5b5b36acf" />
 
 
 <img width="1328" height="651" alt="image" src="https://github.com/user-attachments/assets/1d13ae3e-890d-4c9d-9cb9-e006b43c6125" />
