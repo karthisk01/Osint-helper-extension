@@ -31,6 +31,9 @@ All results open in a new tab using well-known OSINT services.
 
 <h1>🧩 Google Dorks Included </h1>
 
+<img width="1328" height="651" alt="image" src="https://github.com/user-attachments/assets/1d13ae3e-890d-4c9d-9cb9-e006b43c6125" />
+
+
 ⤷ The extension supports multiple predefined Google dorks, including:
 
 ⤷ site:domain
