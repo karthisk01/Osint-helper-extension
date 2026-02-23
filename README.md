@@ -49,3 +49,5 @@ All results open in a new tab using well-known OSINT services.
 ⤷ Configuration & backup file exposure
 
 This helps automate common reconnaissance tasks without manual searching.
+
+
